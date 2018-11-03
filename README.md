@@ -21,4 +21,8 @@ Things you may want to cover:
 
 * Deployment instructions
 
+やっていく気持ち
+
+折れない心
+
 * ...
